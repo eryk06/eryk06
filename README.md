@@ -11,3 +11,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Erykdev06&icon=3&color=3)](https://visitcount.itsvg.in)
+
+
+![snake gif](https://github.com/Erykdev06/Erykdev06/blob/output/github-contribution-grid-snake.gif)
