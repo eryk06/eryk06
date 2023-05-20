@@ -1,6 +1,6 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
-# 💻Tech Stack
+<img align="right" alt="Coding" width="220" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
@@ -8,6 +8,8 @@
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/NestJS-282C34?logo=nestjs&logoColor=E0234E" alt="NestJS logo" title="NestJS" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
 &nbsp;
@@ -25,13 +27,19 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Visual%20Studio-282C34?logo=visual-studio&logoColor=5C2D91" alt="Visual Studio logo" title="Visual Studio" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Android%20Studio-282C34?logo=android-studio&logoColor=3DDC84" alt="Android Studio logo" title="Android Studio" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Unity-282C34?logo=unity&logoColor=FFFFFF" alt="Unity logo" title="Unity" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Dotnet-282C34?logo=dotnet&logoColor=512BD4" alt="Dotnet logo" title="Dotnet" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Babel-282C34?logo=babel&logoColor=F9DC3E" alt="Babel logo" title="Babel" height="25" /></span>
 &nbsp;
-# 📊GitHub Stats :
+<span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
+&nbsp;
+
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
