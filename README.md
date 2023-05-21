@@ -68,3 +68,9 @@
     <img width="90" height="90" src="https://img.icons8.com/color/180/gitlab.png" alt="Erykdev06-gitlab" />
   </a>
 </div>  
+
+<div align="center">
+
+  ![Snake animation](https://github.com/Erykdev06/Erykdev06/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
