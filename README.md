@@ -69,8 +69,11 @@
   </a>
 </div>  
 
+<br>
+<h2 align="center">🐍 Snake 🐍</h2>
+<br>
 <div align="center">
 
-  ![Snake animation](https://github.com/Erykdev06/Erykdev06/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
 </div>
