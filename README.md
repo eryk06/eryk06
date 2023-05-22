@@ -23,8 +23,6 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Prettier-282C34?logo=prettier&logoColor=F7B93E" alt="Prettier logo" title="Prettier" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="Git logo" title="Git" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
@@ -40,6 +38,10 @@
 <span><img src="https://img.shields.io/badge/Babel-282C34?logo=babel&logoColor=F9DC3E" alt="Babel logo" title="Babel" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" alt="Postman logo" title="Postman" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/MUI-282C34?logo=mui&logoColor=007fff" alt="MUI logo" title="MUI" height="25" /></span>
 &nbsp;
 
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
