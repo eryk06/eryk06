@@ -41,7 +41,9 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" alt="Postman logo" title="Postman" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/MUI-282C34?logo=mui&logoColor=007fff" alt="MUI logo" title="MUI" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Deno-282C34?logo=deno&logoColor=000000" alt="Deno logo" title="Deno" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Nodemon-282C34?logo=Nodemon&logoColor=76D04B" alt="Nodemon logo" title="Nodemon" height="25" /></span>
 &nbsp;
 
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
