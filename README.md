@@ -9,8 +9,6 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/NestJS-282C34?logo=nestjs&logoColor=E0234E" alt="NestJS logo" title="NestJS" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
@@ -41,7 +39,9 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" alt="Postman logo" title="Postman" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Deno-282C34?logo=deno&logoColor=000000" alt="Deno logo" title="Deno" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" alt="Docker logo" title="Docker" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Redis-282C34?logo=redis&logoColor=DC382D" alt="Redis logo" title="Redis" height="25" /></span>
 &nbsp;
 
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
