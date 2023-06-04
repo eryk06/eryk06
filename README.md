@@ -1,6 +1,6 @@
 <div align="center">
-  
-  # Hi, I’m Eryk!   <img src="https://cdn3.emoji.gg/emojis/4458_inosuke_run.gif" width="60px" height="60px" alt="inosuke">
+
+  # Hi, I’m Erykdev06!   <img src="https://cdn3.emoji.gg/emojis/4458_inosuke_run.gif" width="60px" height="60px" alt="inosuke">
 
 </div>
 <div align="center">
@@ -56,9 +56,7 @@
 &nbsp;
 
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
-<br>
 
-<br>
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
 <!-- https://icons8.com -->
@@ -74,7 +72,6 @@
   </a>
 </div>  
 
-<br>
 <h2 align="center">🐍 Snake 🐍</h2>
 <br>
 <div align="center">
