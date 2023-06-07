@@ -1,4 +1,4 @@
-# <img src="https://cdn3.emoji.gg/emojis/4930-zenitsu-notlikethis.png" width="50px" height="50px" alt="Zenitsu"> Hi, I’m Erykdev06!   <img src="https://cdn3.emoji.gg/emojis/4458_inosuke_run.gif" width="60px" height="60px" alt="Inosuke">
+# <img src="https://cdn3.emoji.gg/emojis/2286_tanjirou_run.gif" width="60px" height="60px" alt="Tanjirou"> Hi, I’m Erykdev06!   <img src="https://cdn3.emoji.gg/emojis/4458_inosuke_run.gif" width="60px" height="60px" alt="Inosuke">
 <div align="center">
 
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31tsszeyy7cbfka7lhcaxpgw3a4u&cover_image=true&theme=novatorem&bar_color=74a7fe&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
