@@ -50,7 +50,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Redis-282C34?logo=redis&logoColor=DC382D" alt="Redis logo" title="Redis" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Netlify-282C34?logo=netlify&logoColor=00C7B7" alt="Netlify logo" title="Netlify" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Socket.io-282C34?logo=socket.io&logoColor=010101" alt="Socket.io logo" title="Socket.io" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp;
