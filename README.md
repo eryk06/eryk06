@@ -36,10 +36,9 @@
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Android%20Studio-282C34?logo=android-studio&logoColor=3DDC84" alt="Android Studio logo" title="Android Studio" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/Unity-282C34?logo=unity&logoColor=FFFFFF" alt="Unity logo" title="Unity" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Amazon AWS-282C34?logo=amazon aws&logoColor=ff9900" alt="Amazon AWS logo" title="Amazon AWS" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" alt="Docker logo" title="Docker" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Babel-282C34?logo=babel&logoColor=F9DC3E" alt="Babel logo" title="Babel" height="25" /></span>
 &nbsp;
@@ -55,7 +54,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" alt="Docker logo" title="Docker" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Amazon AWS-282C34?logo=amazon aws&logoColor=ff9900" alt="Amazon AWS logo" title="Amazon AWS" height="25" /></span>
 &nbsp;
 
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
