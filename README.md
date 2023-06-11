@@ -39,7 +39,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Unity-282C34?logo=unity&logoColor=FFFFFF" alt="Unity logo" title="Unity" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Dotnet-282C34?logo=dotnet&logoColor=512BD4" alt="Dotnet logo" title="Dotnet" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Amazon AWS-282C34?logo=amazon aws&logoColor=ff9900" alt="Amazon AWS logo" title="Amazon AWS" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Babel-282C34?logo=babel&logoColor=F9DC3E" alt="Babel logo" title="Babel" height="25" /></span>
 &nbsp;
