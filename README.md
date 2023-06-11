@@ -35,8 +35,6 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Visual%20Studio-282C34?logo=visual-studio&logoColor=5C2D91" alt="Visual Studio logo" title="Visual Studio" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/Android%20Studio-282C34?logo=android-studio&logoColor=3DDC84" alt="Android Studio logo" title="Android Studio" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Unity-282C34?logo=unity&logoColor=FFFFFF" alt="Unity logo" title="Unity" height="25" /></span>
@@ -56,6 +54,8 @@
 <span><img src="https://img.shields.io/badge/Socket.io-282C34?logo=socket.io&logoColor=010101" alt="Socket.io logo" title="Socket.io" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Swagger-282C34?logo=swagger&logoColor=85EA2D" alt="Swagger logo" title="Swagger" height="25" /></span>
 &nbsp;
 
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
