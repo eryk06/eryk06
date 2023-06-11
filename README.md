@@ -47,7 +47,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" alt="Postman logo" title="Postman" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" alt="Docker logo" title="Docker" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Swagger-282C34?logo=swagger&logoColor=85EA2D" alt="Swagger logo" title="Swagger" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Redis-282C34?logo=redis&logoColor=DC382D" alt="Redis logo" title="Redis" height="25" /></span>
 &nbsp;
@@ -55,7 +55,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Swagger-282C34?logo=swagger&logoColor=85EA2D" alt="Swagger logo" title="Swagger" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" alt="Docker logo" title="Docker" height="25" /></span>
 &nbsp;
 
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
