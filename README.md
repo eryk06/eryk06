@@ -21,6 +21,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/NestJS-282C34?logo=nestjs&logoColor=E0234E" alt="NestJS logo" title="NestJS" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Prisma-282C34?logo=prisma&logoColor=3E5151" alt="Prisma logo" title="Prisma" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=4169E1" alt="PostgreSQL logo" title="PostgreSQL" height="25" /></span>
@@ -46,8 +48,6 @@
 <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" alt="Postman logo" title="Postman" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Prisma-282C34?logo=prisma&logoColor=3E5151" alt="Prisma logo" title="Prisma" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Swagger-282C34?logo=swagger&logoColor=85EA2D" alt="Swagger logo" title="Swagger" height="25" /></span>
 &nbsp;
