@@ -7,7 +7,6 @@
 </div>
 
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
-<img src="https://github.com/Erykdev06/Erykdev06/img/Dev.gif?raw=true" href="https://github.com/Erykdev06/Erykdev06" alt="Dev Coding"  width="295"/><br>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
@@ -56,8 +55,6 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Socket.io-282C34?logo=socket.io&logoColor=010101" alt="Socket.io logo" title="Socket.io" height="25" /></span>
 &nbsp;
-
-![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
 
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
