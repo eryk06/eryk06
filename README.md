@@ -1,4 +1,4 @@
-# <img src="https://cdn3.emoji.gg/emojis/2286_tanjirou_run.gif" width="60px" height="60px" alt="Tanjirou"> Hi, I’m Erykdev06! <img src="https://cdn3.emoji.gg/emojis/4458_inosuke_run.gif" width="60px" height="60px" alt="Inosuke"> <img align="right" alt="Penguin" width="110" src="img/Fire.gif" />
+# <img src="https://cdn3.emoji.gg/emojis/2286_tanjirou_run.gif" width="60px" height="60px" alt="Tanjirou"> Hi, I'm Erykdev06! <img src="https://cdn3.emoji.gg/emojis/4458_inosuke_run.gif" width="60px" height="60px" alt="Inosuke"> <img align="right" alt="Penguin" width="110" src="img/Fire.gif" />
 
 <div align="center">
 
