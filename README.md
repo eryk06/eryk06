@@ -35,8 +35,6 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/MUI-282C34?logo=mui&logoColor=007FFF" alt="Mui logo" title="Mui" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
