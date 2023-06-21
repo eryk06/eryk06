@@ -27,6 +27,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Prisma-282C34?logo=prisma&logoColor=3E5151" alt="Prisma logo" title="Prisma" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/RabbitMQ-282C34?logo=rabbitmq&logoColor=FF6600" alt="RabbitMQ logo" title="RabbitMQ" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=4169E1" alt="PostgreSQL logo" title="PostgreSQL" height="25" /></span>
