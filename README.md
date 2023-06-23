@@ -33,9 +33,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=4169E1" alt="PostgreSQL logo" title="PostgreSQL" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/MUI-282C34?logo=mui&logoColor=007FFF" alt="MUI logo" title="MUI" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Webpack-282C34?logo=webpack&logoColor=8DD6F9" alt="Webpack logo" title="Webpack" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
