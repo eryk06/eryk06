@@ -25,7 +25,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Graphql-282C34?logo=graphql&logoColor=E10098" alt="Graphql logo" title="Graphql" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Nginx-282C34?logo=nginx&logoColor=009639" alt="Nginx logo" title="Nginx" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Prisma-282C34?logo=prisma&logoColor=cfd9df" alt="Prisma logo" title="Prisma" height="25" /></span>
 &nbsp;
