@@ -27,7 +27,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Nginx-282C34?logo=nginx&logoColor=009639" alt="Nginx logo" title="Nginx" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Prisma-282C34?logo=prisma&logoColor=cfd9df" alt="Prisma logo" title="Prisma" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" title="Jest" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/RabbitMQ-282C34?logo=rabbitmq&logoColor=FF6600" alt="RabbitMQ logo" title="RabbitMQ" height="25" /></span>
 &nbsp;
