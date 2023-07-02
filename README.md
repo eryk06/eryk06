@@ -59,7 +59,7 @@
 &nbsp;
 
 <br>
-<h2 align="center">🧆 GitHub Stats 🧆</h2>
+<h2 align="center">💤 GitHub Stats 💤</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
@@ -73,7 +73,7 @@
 
 <br>
 <div align="center">
-<h2>🧟‍♂️	Code Cycle 🧟‍♂️</h2>
+<h2>🥳 Code Cycle 🥳</h2>
 <br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
