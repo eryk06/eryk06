@@ -72,22 +72,6 @@
 </div>
 
 <br>
-<h2 align="center">🏄‍♂️ Where to find me 🏄‍♂️</h2>
-<br>
-<!-- https://icons8.com -->
-<div align="center">
-  <a href="https://github.com/Erykdev06" target="blank">
-    <img width="90" height="90" src="https://img.icons8.com/bubbles/180/github.png" alt="Erykdev06-github" />
-  </a>
-   <a href="https://gitlab.com/" target="blank">
-    <img width="90" height="90" src="https://img.icons8.com/color/180/gitlab.png" alt="Erykdev06-gitlab" />
-  </a>
-  <a href="https://www.linkedin.com/in/l%C3%A2m-nguy%E1%BB%85n-6786a8278/" target="blank">
-    <img width="90" height="90" src="https://img.icons8.com/bubbles/180/linkedin.png" alt="Erykdev06-linkedin" />
-  </a>
-</div>
-
-<br>
 <div align="center">
 <h2>🧟‍♂️	Code Cycle 🧟‍♂️</h2>
 <br>
