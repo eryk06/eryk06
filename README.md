@@ -29,8 +29,6 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" title="Jest" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/RabbitMQ-282C34?logo=rabbitmq&logoColor=FF6600" alt="RabbitMQ logo" title="RabbitMQ" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=4169E1" alt="PostgreSQL logo" title="PostgreSQL" height="25" /></span>
@@ -46,6 +44,8 @@
 <span><img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" alt="Docker logo" title="Docker" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Kubernetes-282C34?logo=kubernetes&logoColor=326CE5" alt="Kubernetes logo" title="Kubernetes" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Jenkins-282C34?logo=jenkins&logoColor=D24939" alt="Jenkins logo" title="Jenkins" height="25" /></span>
 &nbsp;
