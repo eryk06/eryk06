@@ -1,11 +1,5 @@
 # <img src="https://cdn3.emoji.gg/emojis/2286_tanjirou_run.gif" width="60px" height="60px" alt="Tanjirou"> Hi, I'm Erykdev06! <img src="https://cdn3.emoji.gg/emojis/4458_inosuke_run.gif" width="60px" height="60px" alt="Inosuke"> <img align="right" alt="Penguin" width="110" src="img/Fire.gif" />
 
-<div align="center">
-
-<img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='180'>
-
-</div>
-
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
