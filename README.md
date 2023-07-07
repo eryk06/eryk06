@@ -41,8 +41,6 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" alt="Docker logo" title="Docker" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Kubernetes-282C34?logo=kubernetes&logoColor=326CE5" alt="Kubernetes logo" title="Kubernetes" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/Jenkins-282C34?logo=jenkins&logoColor=D24939" alt="Jenkins logo" title="Jenkins" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" alt="Postman logo" title="Postman" height="25" /></span>
