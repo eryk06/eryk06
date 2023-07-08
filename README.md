@@ -4,6 +4,7 @@
 
 <div align="center">
     <h2>🧰 Languages and Tools 🧰</h2>
+    <br>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
     &nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
@@ -24,7 +25,6 @@
 
 <br>
 <h2 align="center">💤 GitHub Stats 💤</h2>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
   <a href="#" title="Erykdev06">
