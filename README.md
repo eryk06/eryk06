@@ -1,10 +1,7 @@
-# <img src="https://cdn3.emoji.gg/emojis/2286_tanjirou_run.gif" width="60px" height="60px" alt="Tanjirou"> Hi, I'm Erykdev06! <img src="https://cdn3.emoji.gg/emojis/4458_inosuke_run.gif" width="60px" height="60px" alt="Inosuke"> <img align="right" alt="Penguin" width="110" src="img/Fire.gif" />
-
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 
 <div align="center">
     <h2>🧰 Languages and Tools 🧰</h2>
-    <br>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
     &nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
@@ -23,7 +20,6 @@
     &nbsp;
 </div>
 
-<br>
 <h2 align="center">💤 GitHub Stats 💤</h2>
 <br>
 <div align=center>
