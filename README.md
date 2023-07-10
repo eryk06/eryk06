@@ -21,8 +21,10 @@
     &nbsp;
 </div>
 
+<br>
 <div align=center>
-  <h2>📺 GitHub Stats 📺</h2>  
+  <h2>📺 GitHub Stats 📺</h2>
+  <br> 
   <a href="#" title="Erykdev06">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erykdev06&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
@@ -31,17 +33,21 @@
   </a>
 </div>
 
+<br>
 <div align="center">
 <h2>🥳 Code Cycle 🥳</h2>
+<br>   
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
 </div>
-  
+
+<br>  
 <div align="center">
 <h2>🐍 Snake 🐍</h2>
+<br>
 
 ![Snake animation](https://github.com/Erykdev06/Erykdev06/blob/output/github-contribution-grid-snake.svg)
 
