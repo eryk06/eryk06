@@ -1,7 +1,7 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 
 <div align="center">
-    <h2>🛠️ Technologies and Tools 🛠️</h2>
+    <h2>🔥 Technologies and Tools 🔥</h2>
     <br>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
     &nbsp;
