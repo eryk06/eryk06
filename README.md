@@ -43,12 +43,3 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
 </div>
-
-<br>  
-<div align="center">
-<h2>🐍 Snake 🐍</h2>
-<br>
-
-![Snake animation](https://github.com/Erykdev06/Erykdev06/blob/output/github-contribution-grid-snake.svg)
-
-</div>
