@@ -1,6 +1,6 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 
-### <h3 align="center">🔥 Technologies and Tools 🔥<h3/>
+### <h3 align="center"><img src="https://cdn3.emoji.gg/emojis/9332-pixelcyanfire.gif" width="28px"> Technologies and Tools <img src="https://cdn3.emoji.gg/emojis/9332-pixelcyanfire.gif" width="28px"><h3/>
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
     <br>
@@ -38,7 +38,7 @@
   </a>
 </div>
 
-### <h3 align="center">🥳 Code Cycle 🥳</h3>
+### <h3 align="center"><img src="https://cdn3.emoji.gg/emojis/4203-pixel-pink-bounce.gif" width="28px"> Code Cycle <img src="https://cdn3.emoji.gg/emojis/4203-pixel-pink-bounce.gif" width="28px"></h3>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <br>
@@ -49,6 +49,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="8%" alt="It's working but you don't know how!"/><br>
 </div>
+
+<img src="https://cdn3.emoji.gg/emojis/4676-pepefireworks.gif" width="60px" align="right">
 
  <br>
  <br>
