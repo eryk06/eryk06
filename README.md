@@ -50,10 +50,7 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="8%" alt="It's working but you don't know how!"/><br>
 </div>
 
-<img src="https://cdn3.emoji.gg/emojis/4676-pepefireworks.gif" width="55px" align="right">
-
- <br>
- <br>
+<br>
 
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
