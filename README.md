@@ -1,6 +1,6 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 
-### <h3 align="center"><img src="https://cdn3.emoji.gg/emojis/9332-pixelcyanfire.gif" width="28px"> Technologies and Tools <img src="https://cdn3.emoji.gg/emojis/9332-pixelcyanfire.gif" width="28px"><h3/>
+### <h3 align="center"> 🪶 Technologies and Tools 🪶 <h3/>
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
     <br>
@@ -8,7 +8,7 @@
     <img src="https://skillicons.dev/icons?i=js,ts,nodejs,rust,nestjs,postgres,mongodb,redis,docker,vscode,firebase,postman,linux,git,github,gitlab&perline=8&theme=dark" alt="My Skills" />
 </div>
 
-### <h3 align="center"><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px"> GitHub Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px"></h3>
+### <h3 align="center"> 🦸‍♂️ GitHub Stats 🦸‍♂️ </h3>
 <div align=center>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
   <br>
@@ -21,7 +21,7 @@
   </a>
 </div>
 
-### <h3 align="center"><img src="https://cdn3.emoji.gg/emojis/4203-pixel-pink-bounce.gif" width="28px"> Code Cycle <img src="https://cdn3.emoji.gg/emojis/4203-pixel-pink-bounce.gif" width="28px"></h3>
+### <h3 align="center"> 🥷 Code Cycle 🥷 </h3>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <br>
