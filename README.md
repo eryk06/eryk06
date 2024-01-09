@@ -27,7 +27,7 @@
 <br>
 <br>
     
-[![A random quote](https://quotes-github-readme.vercel.app/api?type=vertical&border=true&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![A random quote](https://quotes-github-readme.vercel.app/api?type=vertical&border=true&theme=catppuccin_macchiato)](https://github.com/piyushsuthar/github-readme-quotes)
 </div>
 
 ### <h3 align="center"> 🥷 Code Cycle 🥷 </h3>
