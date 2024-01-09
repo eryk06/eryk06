@@ -1,6 +1,6 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 
-### <h3 align="center"> 🧪 Technologies and Tools 🧪 <h3/>
+### <h3 align="center"> 🪷 Technologies and Tools 🪷 <h3/>
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
     <br>
@@ -42,7 +42,7 @@
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:lamnguyen062003@gmail.com?subject=Hello%20Eryk06,%20From%20Github)
 </div>
 
-### <h3 align="center"> 🥷 Code Cycle 🥷 </h3>
+### <h3 align="center"> 🔫 Code Cycle 🔫 </h3>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <br>
