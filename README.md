@@ -1,6 +1,6 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 
-### <h3 align="center"> 🪶 Technologies and Tools 🪶 <h3/>
+### <h3 align="center"> 🧪 Technologies and Tools 🧪 <h3/>
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
     <br>
@@ -8,11 +8,14 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,nestjs,react,redux,nextjs,materialui,tailwind,postgres,mongodb,redis,docker,kubernetes,nginx,ansible,kafka,rabbitmq,firebase,jenkins,postman,linux,vscode,git,github,githubactions,gitlab,vite,webpack&perline=8&theme=dark" alt="My Skills" />
 </div>
 
-### <h3 align="center"> 🦸‍♂️ GitHub Stats 🦸‍♂️ </h3>
+### <h3 align="center"> 🍃 GitHub Stats 🍃 </h3>
 <div align=center>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
   <br>
   <br> 
+    
+  [![eryk06's GitHub | Stats](https://stats.quine.sh/eryk06/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=eryk06)
+    
   <a href="#" title="eryk06">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eryk06&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
