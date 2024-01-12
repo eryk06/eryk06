@@ -5,7 +5,7 @@
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
     <br>
     <br>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,nestjs,react,redux,nextjs,materialui,tailwind,postgres,mongodb,redis,docker,kubernetes,nginx,kafka,rabbitmq,firebase,jenkins,postman,linux,vscode,git,github,githubactions,gitlab,vite,rollupjs,webpack&perline=8&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,bun,nestjs,astro,redux,nextjs,tailwind,postgres,mongodb,redis,docker,terraform,kubernetes,nginx,elasticsearch,kafka,rabbitmq,firebase,jenkins,postman,linux,vscode,git,github,githubactions,gitlab,vite,rollupjs&perline=8&theme=dark" alt="My Skills" />
 </div>
 
 ### <h3 align="center"> 🍃 GitHub Stats 🍃 </h3>
