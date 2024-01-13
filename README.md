@@ -16,14 +16,14 @@
       <br>Typescript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" alt="Redux"/>
-      <br>Redux
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" alt="React"/>
+      <br>React
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" alt="React"/>
+        <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" alt="Redux"/>
       </a>
-      <br>React
+      <br>Redux
        <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
       <br>Github
@@ -44,10 +44,6 @@
        <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" alt="Kubernetes"/>
       <br>Kubernetes
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" alt="AWS"/>
-      <br>AWS
     </td>
   </tr>
   <tr>
@@ -79,11 +75,7 @@
         <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
       <br>Redis
     </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="Mysql" />
-      <br>Mysql
-    </td>
-        <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="Postgres" />
       <br>PostgreSQL
     </td>
@@ -112,10 +104,6 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform" />
       <br>Terraform
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="Kafka" />
-      <br>Kafka
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tauri" width="48" height="48" alt="Tauri" />
