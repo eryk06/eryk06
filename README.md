@@ -93,6 +93,10 @@
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
       <br>Postman
     </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="Vscode" />
+      <br>Vscode	
+    </td>
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
       <br>Linux
@@ -116,10 +120,6 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=next" width="48" height="48" alt="Next" />
       <br>Next
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="Vscode" />
-      <br>Vscode	
     </td>
   </tr>
  <tr>
