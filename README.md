@@ -80,14 +80,11 @@
       <br>Nodejs
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bun" width="48" height="48" alt="Bun" />
-      <br>Bun
-  </tr>
-   <tr>
-    </td>
-        <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="Nestjs" />
       <br>Nestjs
+    </td>
+  </tr>
+   <tr>
     </td>
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
@@ -102,9 +99,9 @@
       <br>Linux
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="RabbitMQ" />
-      <br>RabbitMQ
-    </td>
+        <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="Kafka" />
+      <br>Kafka
+     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform" />
       <br>Terraform
@@ -116,6 +113,10 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=svelte" width="48" height="48" alt="Svelte" />
       <br>Svelte
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
+      <br>Supabase
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
