@@ -63,10 +63,6 @@
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
     </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
-      <br>GitLab
-    </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="Mongodb" />
       <br>Mongodb		
@@ -79,9 +75,13 @@
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="Postgres" />
       <br>PostgreSQL
     </td>
-    <td align="center" width="96">
+    <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
-      <br>Nodejs	
+      <br>Nodejs
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bun" width="48" height="48" alt="Bun" />
+      <br>Bun
   </tr>
    <tr>
     </td>
@@ -118,8 +118,8 @@
       <br>Svelte
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=next" width="48" height="48" alt="Next" />
-      <br>Next
+        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+      <br>Firebase
     </td>
   </tr>
  <tr>
