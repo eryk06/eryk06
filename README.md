@@ -33,7 +33,7 @@
       <br>Rest API
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" alt="Nginx"/>
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" alt="Nginx"/>
       <br>Nginx
     </td>
         <td align="center" width="96">
