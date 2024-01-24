@@ -115,12 +115,12 @@
       <br>Svelte
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Nextjs" />
-      <br>Nextjs
-    </td>
-    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
       <br>Firebase
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=rollupjs" width="48" height="48" alt="Rollupjs" />
+      <br>Rollupjs
     </td>
   </tr>
  <tr>
