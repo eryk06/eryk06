@@ -3,6 +3,7 @@
 <div style="display: flex;justify-content: space-between;">
   <img src="./assets/coding.gif" alt="Night Coding" height="180px" />
   <img src="./assets/fix_bug.gif" alt="Daily bug fix" height="180px" />
+  <img src="./assets/chill.gif" alt="Chill Chill" height="180px" />
 </div>
 
 ### <h3 align="center"> 🪷 Technologies and Tools 🪷 <h3/>
