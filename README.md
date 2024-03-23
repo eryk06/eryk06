@@ -1,9 +1,9 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 
 <div style="display: flex;justify-content: space-between;">
-  <img src="./assets/coding.gif" alt="Night Coding" height="155px" />
-  <img src="./assets/fix_bug.gif" alt="Daily bug fix" height="155px" />
-  <img src="./assets/chill.gif" alt="Chill Chill" height="155px" />
+  <img src="./assets/coding.gif" alt="Night Coding" height="152px" />
+  <img src="./assets/fix_bug.gif" alt="Daily bug fix" height="152px" />
+  <img src="./assets/chill.gif" alt="Chill Chill" height="152px" />
 </div>
 
 ### <h3 align="center"> 🪷 Technologies and Tools 🪷 <h3/>
