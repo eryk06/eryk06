@@ -1,8 +1,10 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 
 ### <h3 align="center"> 🪷 Technologies and Tools 🪷 <h3/>
+
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+    <img src="./assets/fix_bug.gif" alt="Daily bug fix" height="180px" />
     <br>
     <br>
    <table>
@@ -65,7 +67,7 @@
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="Mongodb" />
-      <br>Mongodb		
+      <br>Mongodb
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
@@ -92,7 +94,7 @@
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="Vscode" />
-      <br>Vscode	
+      <br>Vscode
     </td>
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
@@ -130,10 +132,11 @@
 </div>
 
 ### <h3 align="center"> 🍃 GitHub Stats 🍃 </h3>
+
 <div align=center>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   <br>
-  <br>     
+  <br>
   <a href="#" title="eryk06">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eryk06&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
@@ -143,19 +146,22 @@
 </div>
 
 ### <h3 align="center"> 💡 A Quote 💡 </h3>
+
 <div align=center>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <br>
-    
+
 [![A random quote](https://quotes-github-readme.vercel.app/api?type=vertical&border=true&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 </div>
 
 ### <h3 align="center"> 🔫 Code Cycle 🔫 </h3>
+
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-<br> 
+<br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="8%" alt="Broken system!"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="8%" alt="It's working!"/>
