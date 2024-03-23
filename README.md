@@ -1,10 +1,13 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 
+<div style="display: flex;justify-content: space-between;">
+  <img src="./assets/fix_bug.gif" alt="Daily bug fix" height="180px" />
+</div>
+
 ### <h3 align="center"> 🪷 Technologies and Tools 🪷 <h3/>
 
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-    <img src="./assets/fix_bug.gif" alt="Daily bug fix" height="180px" />
     <br>
     <br>
    <table>
