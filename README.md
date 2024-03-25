@@ -36,11 +36,11 @@
       <br>Github
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" alt="Nginx"/>
-      <br>Nginx
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br>Linux
     </td>
         <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker" />
       <br>Docker
     </td>
     <td align="center" width="96">
@@ -61,11 +61,6 @@
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
       <br>CSS
     </td>
-  </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
-    </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
@@ -85,6 +80,10 @@
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
       <br>Nodejs
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Nextjs" />
+      <br>Nextjs
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="Nestjs" />
